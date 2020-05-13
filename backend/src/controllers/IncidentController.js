@@ -32,7 +32,6 @@ module.exports = {
             value,
             ong_id
         })
-        console.log(id)
         return response.json({ id })
     },
 
